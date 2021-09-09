@@ -4,6 +4,9 @@
 
 ![InteractivePF](https://user-images.githubusercontent.com/78222574/129739608-7450886a-cf38-4324-bd3b-1572ab96861f.JPG)
 
+#2D FFT Denoising Filter
+![FFT_Denoising](https://user-images.githubusercontent.com/78222574/132716376-e1386fcb-146a-439a-9ef3-d44a8f98e385.JPG)
+
 #Image Gradients
 
 ![ImageGradients](https://user-images.githubusercontent.com/78222574/129740542-bcd320cb-fbd2-4455-89a9-79ecb0aa25a5.JPG)
